@@ -2,7 +2,7 @@
     "name": "Kiryuhin/task06_2",
     "autoload": {
         "psr-4": {
-            "Rmvit\\Task062\\": [
+            "Kiryuhin\\Task062\\": [
                 "src/",
                 "tests/Unit/"
             ]
